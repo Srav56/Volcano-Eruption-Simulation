@@ -1,0 +1,10 @@
+compile command:
+
+gcc -o cgv cgv.c -framework Carbon -framework OpenGL -framework GLUT -mmacosx-version-min=10.5
+or
+./Makefile
+
+
+run command:
+
+./cgv
